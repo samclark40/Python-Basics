@@ -1,2 +1,2 @@
 # Python_basics
-Mod 1 - Python basics for data science edx
+Python Basics for Data Science Edx
